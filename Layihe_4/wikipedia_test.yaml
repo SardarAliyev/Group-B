@@ -1,0 +1,4 @@
+adress: https://en.wikipedia.org/wiki/NASA
+CHROME_DRIVER_PATH = "C:/Users/lenovo/Desktop/Layihe_4/chromedriver.exe"
+EDGE_DRIVER_PATH = "C:/Users/lenovo/Desktop/Layihe_4/msedgedriver.exe"
+sleep_time: 5
